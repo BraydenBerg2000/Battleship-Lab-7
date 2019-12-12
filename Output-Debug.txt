@@ -1,0 +1,12 @@
+﻿'Lab7 Battleship.exe' (Win32): Loaded 'C:\Users\brayd\source\repos\Lab7 Battleship\Debug\Lab7 Battleship.exe'. Symbols loaded.
+'Lab7 Battleship.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'Lab7 Battleship.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'Lab7 Battleship.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'Lab7 Battleship.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'Lab7 Battleship.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'Lab7 Battleship.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x8ad4 has exited with code 0 (0x0).
+The thread 0xa60 has exited with code -1073741510 (0xc000013a).
+The thread 0x1d4 has exited with code -1073741510 (0xc000013a).
+The thread 0x657c has exited with code -1073741749 (0xc000004b).
+The program '[9272] Lab7 Battleship.exe' has exited with code -1073741510 (0xc000013a).
